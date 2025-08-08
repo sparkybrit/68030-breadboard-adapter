@@ -59,3 +59,5 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+# KiCad specific
+fp-info-cache
