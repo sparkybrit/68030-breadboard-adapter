@@ -1,0 +1,3 @@
+[submodule "lib/sparky1-modules"]
+	path = lib/sparky1-modules
+	url = https://github.com/sparkybrit/sparky1-modules.git
