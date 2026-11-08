@@ -1277,7 +1277,7 @@
 				(pin bidirectional line
 					(at 59.69 -40.64 180)
 					(length 7.62)
-					(name "IPL2"
+					(name "~{IPL2}"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1295,7 +1295,7 @@
 				(pin bidirectional line
 					(at 59.69 -38.1 180)
 					(length 7.62)
-					(name "IPL1"
+					(name "~{IPL1}"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1403,7 +1403,7 @@
 				(pin input line
 					(at 59.69 -35.56 180)
 					(length 7.62)
-					(name "IPL0"
+					(name "~{IPL0}"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -7115,7 +7115,7 @@
 		)
 		(uuid "04f0b361-ba47-4423-8921-1f8166168c8d")
 	)
-	(label "~{REFIL"
+	(label "~{REFILL}"
 		(at 189.23 39.37 0)
 		(effects
 			(font
@@ -7135,7 +7135,7 @@
 		)
 		(uuid "090f556b-73c1-4609-8c0c-3314cb770fc5")
 	)
-	(label "~{CIOUT"
+	(label "~{CIOUT}"
 		(at 189.23 57.15 0)
 		(effects
 			(font
@@ -7145,7 +7145,7 @@
 		)
 		(uuid "0b1bef74-6b87-4b67-8c98-e188cad01605")
 	)
-	(label "~{REFIL"
+	(label "~{REFILL}"
 		(at 77.47 27.94 90)
 		(effects
 			(font
@@ -7185,7 +7185,7 @@
 		)
 		(uuid "14adb4f7-60f3-4359-8f34-360c7504c10f")
 	)
-	(label "~{ECS"
+	(label "~{ECS}"
 		(at 218.44 41.91 0)
 		(effects
 			(font
@@ -7245,7 +7245,7 @@
 		)
 		(uuid "1c69880e-6691-4191-8a24-9155e931f220")
 	)
-	(label "~{DS"
+	(label "~{DS}"
 		(at 218.44 46.99 0)
 		(effects
 			(font
@@ -7265,7 +7265,7 @@
 		)
 		(uuid "1cd3428e-276f-4e50-a78a-dcdd98305e98")
 	)
-	(label "~{ECS"
+	(label "~{ECS}"
 		(at 47.625 130.81 0)
 		(effects
 			(font
@@ -7285,7 +7285,7 @@
 		)
 		(uuid "1e09031f-5059-4fb7-85cb-18fcc68f98b7")
 	)
-	(label "~{BG"
+	(label "~{BG}"
 		(at 189.23 29.21 0)
 		(effects
 			(font
@@ -7315,7 +7315,7 @@
 		)
 		(uuid "222340d5-3a91-4659-aa13-310333dfc7c1")
 	)
-	(label "~{DSACK1"
+	(label "~{DSACK1}"
 		(at 132.08 27.94 90)
 		(effects
 			(font
@@ -7335,7 +7335,7 @@
 		)
 		(uuid "22be894f-d38a-4ac1-8b83-10dc58041bda")
 	)
-	(label "~{DSACK0"
+	(label "~{DSACK0}"
 		(at 189.23 44.45 0)
 		(effects
 			(font
@@ -7355,7 +7355,7 @@
 		)
 		(uuid "24b61942-80d4-4857-b265-cf0cc99ea571")
 	)
-	(label "~{CBACK"
+	(label "~{CBACK}"
 		(at 153.67 27.94 90)
 		(effects
 			(font
@@ -7465,7 +7465,7 @@
 		)
 		(uuid "333534b4-68d6-4d41-af08-0c0e94d317b0")
 	)
-	(label "~{BERR"
+	(label "~{BERR}"
 		(at 218.44 29.21 0)
 		(effects
 			(font
@@ -7495,7 +7495,7 @@
 		)
 		(uuid "368c46b6-5bb4-44bb-801d-1fa23d2267c3")
 	)
-	(label "~{CBREQ"
+	(label "~{CBREQ}"
 		(at 189.23 54.61 0)
 		(effects
 			(font
@@ -7525,7 +7525,7 @@
 		)
 		(uuid "3b6b36a1-2b96-4b59-8ea5-2b6a7efb8be0")
 	)
-	(label "~{STATUS"
+	(label "~{STATUS}"
 		(at 189.23 36.83 0)
 		(effects
 			(font
@@ -7565,7 +7565,7 @@
 		)
 		(uuid "3dc0ecf5-c77e-432d-8b2e-6586d1f12ef8")
 	)
-	(label "IPL1"
+	(label "~{IPL1}"
 		(at 172.085 138.43 0)
 		(effects
 			(font
@@ -7585,7 +7585,7 @@
 		)
 		(uuid "41b224b3-ce0a-4c44-ad6f-d78e69f489fe")
 	)
-	(label "~{DSACK0"
+	(label "~{DSACK0}"
 		(at 129.54 27.94 90)
 		(effects
 			(font
@@ -7595,7 +7595,7 @@
 		)
 		(uuid "43821712-8da1-45da-a1d7-e58afcbf39be")
 	)
-	(label "~{CIOUT"
+	(label "~{CIOUT}"
 		(at 148.59 27.94 90)
 		(effects
 			(font
@@ -7605,7 +7605,7 @@
 		)
 		(uuid "43d20f30-c701-4db6-8059-d80bee444b22")
 	)
-	(label "~{AVEC"
+	(label "~{AVEC}"
 		(at 218.44 64.77 0)
 		(effects
 			(font
@@ -7675,7 +7675,7 @@
 		)
 		(uuid "4d3d6e08-623e-4ab6-b588-bfb6d6418fd1")
 	)
-	(label "~{HALT"
+	(label "~{HALT}"
 		(at 90.17 27.94 90)
 		(effects
 			(font
@@ -7735,7 +7735,7 @@
 		)
 		(uuid "577b3760-c43f-4af4-983f-5916c9bb8c2a")
 	)
-	(label "~{IPEND"
+	(label "~{IPEND}"
 		(at 189.23 34.29 0)
 		(effects
 			(font
@@ -7885,7 +7885,7 @@
 		)
 		(uuid "64d31f9a-1346-4c71-ac51-76a58baaed5d")
 	)
-	(label "~{OCS"
+	(label "~{OCS}"
 		(at 218.44 39.37 0)
 		(effects
 			(font
@@ -7915,7 +7915,7 @@
 		)
 		(uuid "67db394b-1845-4ec9-aa6a-ea7f627427a0")
 	)
-	(label "~{RESET"
+	(label "~{RESET}"
 		(at 87.63 27.94 90)
 		(effects
 			(font
@@ -7925,7 +7925,7 @@
 		)
 		(uuid "6856aa2c-c85c-49f6-95f4-7081f75bc2f3")
 	)
-	(label "~{CDIS"
+	(label "~{CDIS}"
 		(at 80.01 27.94 90)
 		(effects
 			(font
@@ -8035,7 +8035,7 @@
 		)
 		(uuid "6ff2cd91-1a0e-44ec-9fec-20e9a8078ea0")
 	)
-	(label "IPL0"
+	(label "~{IPL0}"
 		(at 218.44 31.75 0)
 		(effects
 			(font
@@ -8065,7 +8065,7 @@
 		)
 		(uuid "72bc01e9-a006-4700-bf1d-d1b8ac157478")
 	)
-	(label "~{OCS"
+	(label "~{OCS}"
 		(at 47.625 128.27 0)
 		(effects
 			(font
@@ -8085,7 +8085,7 @@
 		)
 		(uuid "76422ea1-331e-4f53-81f5-b14287e95145")
 	)
-	(label "IPL2"
+	(label "~{IPL2}"
 		(at 218.44 36.83 0)
 		(effects
 			(font
@@ -8125,7 +8125,7 @@
 		)
 		(uuid "7d07679c-5d35-447b-95c2-c37425a4423f")
 	)
-	(label "~{AS"
+	(label "~{AS}"
 		(at 218.44 44.45 0)
 		(effects
 			(font
@@ -8175,7 +8175,7 @@
 		)
 		(uuid "82886ad6-0956-4b1e-9113-73878f59b911")
 	)
-	(label "~{BR"
+	(label "~{BR}"
 		(at 64.77 27.94 90)
 		(effects
 			(font
@@ -8225,7 +8225,7 @@
 		)
 		(uuid "8b68a30f-6014-453b-ba0c-deac0711dd03")
 	)
-	(label "~{IPEND"
+	(label "~{IPEND}"
 		(at 176.53 143.51 180)
 		(effects
 			(font
@@ -8255,7 +8255,7 @@
 		)
 		(uuid "8dc314d4-4073-4a46-921f-0d3ae231ae2b")
 	)
-	(label "~{CIIN"
+	(label "~{CIIN}"
 		(at 189.23 59.69 0)
 		(effects
 			(font
@@ -8365,7 +8365,7 @@
 		)
 		(uuid "99f1ccd2-04df-48b8-8345-9232200e2a2a")
 	)
-	(label "~{HALT"
+	(label "~{HALT}"
 		(at 189.23 69.85 0)
 		(effects
 			(font
@@ -8495,7 +8495,7 @@
 		)
 		(uuid "a786f27e-1ab5-47e2-b000-faa5fc44f3aa")
 	)
-	(label "~{CBREQ"
+	(label "~{CBREQ}"
 		(at 151.13 27.94 90)
 		(effects
 			(font
@@ -8505,7 +8505,7 @@
 		)
 		(uuid "ab1ac2e6-6f14-4dc7-aaf8-b0bdf28a881f")
 	)
-	(label "~{BGACK"
+	(label "~{BGACK}"
 		(at 189.23 31.75 0)
 		(effects
 			(font
@@ -8525,7 +8525,7 @@
 		)
 		(uuid "ad7210fd-fda0-4203-bd88-6fbba344bad9")
 	)
-	(label "IPL0"
+	(label "~{IPL0}"
 		(at 172.085 135.89 0)
 		(effects
 			(font
@@ -8545,7 +8545,7 @@
 		)
 		(uuid "ae2d208c-5887-499c-8219-59cee4699b45")
 	)
-	(label "~{MMUDIS"
+	(label "~{MMUDIS}"
 		(at 82.55 27.94 90)
 		(effects
 			(font
@@ -8575,7 +8575,7 @@
 		)
 		(uuid "af9430e3-23fa-4925-8458-2393cb465b16")
 	)
-	(label "~{DBEN"
+	(label "~{DBEN}"
 		(at 47.625 143.51 0)
 		(effects
 			(font
@@ -8595,7 +8595,7 @@
 		)
 		(uuid "b0c8dc72-72e6-4377-9731-8a5e11c353f7")
 	)
-	(label "~{CBACK"
+	(label "~{CBACK}"
 		(at 218.44 67.31 0)
 		(effects
 			(font
@@ -8615,7 +8615,7 @@
 		)
 		(uuid "b34e0a4d-b299-4996-bd45-147a8d894ba1")
 	)
-	(label "~{MMUDIS"
+	(label "~{MMUDIS}"
 		(at 218.44 62.23 0)
 		(effects
 			(font
@@ -8625,7 +8625,7 @@
 		)
 		(uuid "b6c0c8cc-598b-4563-83c3-0558d2d266a0")
 	)
-	(label "~{RMC"
+	(label "~{RMC}"
 		(at 47.625 135.89 0)
 		(effects
 			(font
@@ -8645,7 +8645,7 @@
 		)
 		(uuid "b9e66a91-6526-4dd5-987b-619ea0e14442")
 	)
-	(label "~{AVEC"
+	(label "~{AVEC}"
 		(at 171.45 146.05 0)
 		(effects
 			(font
@@ -8665,7 +8665,7 @@
 		)
 		(uuid "ba2dbc6e-3f65-44de-980d-3fe5aa62fd1e")
 	)
-	(label "~{BG"
+	(label "~{BG}"
 		(at 67.31 27.94 90)
 		(effects
 			(font
@@ -8675,7 +8675,7 @@
 		)
 		(uuid "bb442f50-823c-4440-9b1f-2e7901325e50")
 	)
-	(label "~{BERR"
+	(label "~{BERR}"
 		(at 92.71 27.94 90)
 		(effects
 			(font
@@ -8725,7 +8725,7 @@
 		)
 		(uuid "c0711b3d-1537-404f-a0eb-e5918268f518")
 	)
-	(label "~{CIIN"
+	(label "~{CIIN}"
 		(at 146.05 27.94 90)
 		(effects
 			(font
@@ -8745,7 +8745,7 @@
 		)
 		(uuid "c7dcb5ed-55e0-4e22-a78c-ebfa3f98855a")
 	)
-	(label "~{AS"
+	(label "~{AS}"
 		(at 47.625 138.43 0)
 		(effects
 			(font
@@ -8765,7 +8765,7 @@
 		)
 		(uuid "d1da7d0c-57cb-40bd-890e-f87b342f4df1")
 	)
-	(label "~{CDIS"
+	(label "~{CDIS}"
 		(at 218.44 69.85 0)
 		(effects
 			(font
@@ -8835,7 +8835,7 @@
 		)
 		(uuid "d9bd50c5-028a-493a-8ac9-2dcf6441d81b")
 	)
-	(label "~{DS"
+	(label "~{DS}"
 		(at 47.625 140.97 0)
 		(effects
 			(font
@@ -8845,7 +8845,7 @@
 		)
 		(uuid "db2df9ab-d880-4832-af47-b75b908d0926")
 	)
-	(label "~{BR"
+	(label "~{BR}"
 		(at 189.23 26.67 0)
 		(effects
 			(font
@@ -8895,7 +8895,7 @@
 		)
 		(uuid "e3124208-7ff1-4679-b8c5-50038d8bbc22")
 	)
-	(label "~{BGACK"
+	(label "~{BGACK}"
 		(at 69.85 27.94 90)
 		(effects
 			(font
@@ -8905,7 +8905,7 @@
 		)
 		(uuid "e481cda3-f81e-4e27-934a-faf581722285")
 	)
-	(label "~{STATUS"
+	(label "~{STATUS}"
 		(at 74.93 27.94 90)
 		(effects
 			(font
@@ -8975,7 +8975,7 @@
 		)
 		(uuid "ed85b42b-5af5-4fc2-970d-78067bf52234")
 	)
-	(label "IPL2"
+	(label "~{IPL2}"
 		(at 172.085 140.97 0)
 		(effects
 			(font
@@ -8985,7 +8985,7 @@
 		)
 		(uuid "ef406aef-d1f4-4418-aad4-8a860c810203")
 	)
-	(label "IPL1"
+	(label "~{IPL1}"
 		(at 218.44 34.29 0)
 		(effects
 			(font
@@ -9015,7 +9015,7 @@
 		)
 		(uuid "f4f4c8cc-4ff2-4d37-bc23-30afb5b25349")
 	)
-	(label "~{DSACK1"
+	(label "~{DSACK1}"
 		(at 189.23 46.99 0)
 		(effects
 			(font

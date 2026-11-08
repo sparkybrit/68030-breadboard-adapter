@@ -1269,7 +1269,7 @@
 			(pin bidirectional line
 				(at 59.69 -40.64 180)
 				(length 7.62)
-				(name "IPL2"
+				(name "~{IPL2}"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1287,7 +1287,7 @@
 			(pin bidirectional line
 				(at 59.69 -38.1 180)
 				(length 7.62)
-				(name "IPL1"
+				(name "~{IPL1}"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1395,7 +1395,7 @@
 			(pin input line
 				(at 59.69 -35.56 180)
 				(length 7.62)
-				(name "IPL0"
+				(name "~{IPL0}"
 					(effects
 						(font
 							(size 1.27 1.27)
