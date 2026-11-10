@@ -1,0 +1,18 @@
+# This board as a module of a larger schematic (Sparky1's): one KiCad symbol whose pins are its
+# connector pins, read from this repo's schematic, through kicad-cli.
+# Edit this file or the source, then `make -C module`; `make -C module check` fails if the
+# symbol and the source disagree. module/interfaces/ and the .kicad_sym are generated.
+# The keys are described in lib/kicad-tools/README.md.
+
+library = "68030-breadboard-adapter"
+keywords = "sparky1 module interface"
+
+[CPU_ADAPTER]
+description = "MC68030 PGA-to-breadboard adapter, v1.0. J1 address, J2 data, J3 and J4 control (bus arbitration, sizing, cache, interrupts)"
+repo = "https://github.com/sparkybrit/68030-breadboard-adapter"
+path = ".."
+schematic = "68030-breadboard.kicad_sch"
+connectors = ["J1", "J2", "J3", "J4"]
+names = { J1 = "J1 address", J2 = "J2 data", J3 = "J3 control", J4 = "J4 control" }
+# Two 52-pin rows on the board: J2 then J3 (D0 first), J1 then J4 (A0 first).
+sides = { left = ["J1", "J4"], right = ["J2", "J3"] }
